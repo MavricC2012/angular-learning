@@ -1,11 +1,9 @@
 {
-  "name": "multivision",
+  "name": "MultiVision",
   "version": "0.0.0",
-  "homepage": "https://github.com/MavricC2012/angular-learning",
   "authors": [
-    "Craig Weysham <craig@housingmanager.com>"
+    "joeeames <joeeames@gmail.com>"
   ],
-  "description": "Extreme Tech Training",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -16,10 +14,10 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.5",
-    "angular-resource": "~1.4.5",
-    "angular-route": "~1.4.5",
-    "jquery": "~2.1.4",
-    "toastr": "~2.1.2"
+    "jquery": "~2.1.1",
+    "toastr": "~2.0.2",
+    "angular": "~1.2.16",
+    "angular-resource": "~1.2.16",
+    "angular-route": "~1.2.16"
   }
 }
