@@ -2,317 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a16152d8-c3ba-464a-ab3c-927e731c177f" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\Readme.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/express.js" afterPath="$PROJECT_DIR$/server/config/express.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <list id="859c4fc7-4d46-4f25-ba99-fbf24664e8cf" name="New changelist" comment="">
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\hooks\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\hooks\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\hooks\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\hooks\hooks.alt.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\hooks\hooks.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\hooks\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\hooks\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\.gitmodules" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\admin.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\aggregation_cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\auth\mongodb_cr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\auth\mongodb_gssapi.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\auth\mongodb_plain.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\auth\mongodb_scram.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\auth\mongodb_sspi.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\auth\mongodb_x509.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\collection.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\collection\aggregation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\collection\batch\common.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\collection\batch\ordered.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\collection\batch\unordered.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\collection\commands.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\collection\core.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\collection\geo.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\collection\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\collection\query.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\collection\shared.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\command_cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\commands\base_command.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\commands\db_command.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\commands\delete_command.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\commands\get_more_command.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\commands\insert_command.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\commands\kill_cursor_command.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\commands\query_command.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\commands\update_command.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\base.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\connection.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\connection_pool.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\connection_utils.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\mongos.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\read_preference.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\repl_set\ha.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\repl_set\options.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\repl_set\repl_set.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\repl_set\repl_set_state.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\repl_set\strategies\ping_strategy.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\repl_set\strategies\statistics_strategy.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\server.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\server_capabilities.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\connection\url_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\cursorstream.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\db.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\gridfs\chunk.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\gridfs\grid.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\gridfs\gridstore.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\gridfs\readstream.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\mongo_client.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\responses\mongo_reply.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\scope.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\lib\mongodb\utils.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\HISTORY" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\binding.gyp" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\browser_build\bson.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\browser_build\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\build\Release\obj\bson\bson.tlog\CL.command.1.tlog" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\build\Release\obj\bson\bson.tlog\bson.lastbuildstate" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\build\Release\obj\bson\bson.tlog\unsuccessfulbuild" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\build\binding.sln" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\build\bson.vcxproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\build\bson.vcxproj.filters" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\build\config.gypi" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\build_browser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\builderror.log" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\ext\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\ext\bson.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\ext\bson.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\ext\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\ext\win32\ia32\bson.node" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\ext\win32\x64\bson.node" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\ext\wscript" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\binary.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\binary_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\bson.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\bson_new.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\code.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\db_ref.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\double.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\float_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\long.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\max_key.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\min_key.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\objectid.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\symbol.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\lib\bson\timestamp.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\node_modules\nan\.dntrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\node_modules\nan\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\node_modules\nan\LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\node_modules\nan\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\node_modules\nan\appveyor.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\node_modules\nan\include_dirs.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\node_modules\nan\nan.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\node_modules\nan\nan_implementation_12_inl.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\node_modules\nan\nan_implementation_pre_12_inl.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\node_modules\nan\nan_new.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\node_modules\nan\nan_string_bytes.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\node_modules\nan\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\tools\gleak.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\tools\jasmine-1.1.0\MIT.LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\tools\jasmine-1.1.0\jasmine-html.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\tools\jasmine-1.1.0\jasmine.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\tools\jasmine-1.1.0\jasmine.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\bson\tools\jasmine-1.1.0\jasmine_favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\binding.gyp" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\build\Release\obj\kerberos\kerberos.tlog\CL.command.1.tlog" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\build\Release\obj\kerberos\kerberos.tlog\kerberos.lastbuildstate" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\build\Release\obj\kerberos\kerberos.tlog\unsuccessfulbuild" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\build\binding.sln" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\build\config.gypi" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\build\kerberos.vcxproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\build\kerberos.vcxproj.filters" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\builderror.log" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\auth_processes\mongodb.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\base64.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\base64.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\kerberos.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\kerberos.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\kerberos.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\kerberos_context.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\kerberos_context.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\kerberosgss.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\kerberosgss.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\sspi.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\base64.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\base64.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\kerberos.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\kerberos.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\kerberos_sspi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\kerberos_sspi.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\worker.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\worker.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\wrappers\security_buffer.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\wrappers\security_buffer.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\wrappers\security_buffer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\wrappers\security_buffer_descriptor.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\wrappers\security_buffer_descriptor.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\wrappers\security_buffer_descriptor.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\wrappers\security_context.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\wrappers\security_context.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\wrappers\security_context.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\wrappers\security_credentials.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\wrappers\security_credentials.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\win32\wrappers\security_credentials.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\worker.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\lib\worker.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\test\kerberos_tests.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\test\kerberos_win32_test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\test\win32\security_buffer_descriptor_tests.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\test\win32\security_buffer_tests.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos\test\win32\security_credentials_tests.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\.zuul.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\doc\stream.markdown" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\doc\wg-meetings\2015-01-30.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\node_modules\process-nextick-args\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\node_modules\process-nextick-args\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\node_modules\process-nextick-args\license.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\node_modules\process-nextick-args\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\node_modules\process-nextick-args\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\node_modules\process-nextick-args\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\node_modules\util-deprecate\History.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\node_modules\util-deprecate\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\node_modules\util-deprecate\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\node_modules\util-deprecate\browser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\node_modules\util-deprecate\node.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mongodb\node_modules\readable-stream\node_modules\util-deprecate\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mquery\node_modules\debug\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\angular-learning\multivision\node_modules\mongoose\node_modules\mquery\node_modules\debug\lib\debug.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/.npmignore" afterPath="$PROJECT_DIR$/node_modules/mongoose/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/.npmignore" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/mongoose/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/muri/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/muri/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/CONTRIBUTING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/History.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/History.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/muri/History.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/muri/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/LICENSE" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/LICENSE" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/kareem/Makefile" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/kareem/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/Makefile" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/Makefile" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/README.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/kareem/README.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/kareem/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/README.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/README.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/node_modules/debug/Readme.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/node_modules/debug/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/lib/_stream_duplex.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/lib/_stream_duplex.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/lib/_stream_passthrough.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/lib/_stream_passthrough.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/lib/_stream_readable.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/lib/_stream_readable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/lib/_stream_transform.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/lib/_stream_transform.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/lib/_stream_writable.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/lib/_stream_writable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/aggregate/aggregate.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/aggregate/aggregate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/aggregate.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/aggregate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/express/connection-sharing/app.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/express/connection-sharing/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/array.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/array.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/types/array.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/types/array.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/binary.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/binary.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/boolean.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/boolean.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/browserDocument.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/browserDocument.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/error/browserMissingSchema.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/browserMissingSchema.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/buffer.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/buffer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/types/buffer.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/types/buffer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/cast.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/cast.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/error/cast.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/cast.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/collection.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/collection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/lib/collection/collection.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/lib/collection/collection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/connection.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/connection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/connectionstate.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/connectionstate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/date.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/date.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/node_modules/debug/debug.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/node_modules/debug/debug.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/error/divergentArray.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/divergentArray.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/doc-methods.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/doc-methods.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/kareem/docs.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/kareem/docs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/document.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/document.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/documentarray.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/documentarray.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/types/documentarray.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/types/documentarray.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/types/embedded.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/types/embedded.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/error.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/kareem/test/examples.test.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/kareem/test/examples.test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/geoJSONSchema.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/geoJSONSchema.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/geoJSONexample.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/geoJSONexample.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/geospatial.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/geospatial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/schema/storing-schemas-as-json/index.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/schema/storing-schemas-as-json/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/kareem/index.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/kareem/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/index.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/test/index.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/test/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/muri/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/muri/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/internal.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/internal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/lean/lean.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/lean/lean.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/mapreduce/mapreduce.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/mapreduce/mapreduce.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/error/messages.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/messages.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/mixed.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/mixed.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/model.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/model.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/express/connection-sharing/modelA.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/express/connection-sharing/modelA.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/lib/mquery.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/lib/mquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/lib/collection/node.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/lib/collection/node.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/number.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/number.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/objectid.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/objectid.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/objectid.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/objectid.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/types/objectid.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/types/objectid.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/error/overwriteModel.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/overwriteModel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/package.json" afterPath="$PROJECT_DIR$/node_modules/mongoose/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/kareem/package.json" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/kareem/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/package.json" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/package.json" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/package.json" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/node_modules/debug/package.json" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/node_modules/debug/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/muri/package.json" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/muri/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/lib/permissions.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mquery/lib/permissions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/person.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/person.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/population/population-across-three-collections.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/population/population-across-three-collections.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/population/population-basic.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/population/population-basic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/population/population-of-existing-doc.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/population/population-of-existing-doc.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/population/population-of-multiple-existing-docs.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/population/population-of-multiple-existing-docs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/population/population-options.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/population/population-options.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/population/population-plain-objects.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/population/population-plain-objects.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/promises/promise.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/promises/promise.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/promise.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/promise.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/query.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/query.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/querybuilder/querybuilder.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/querybuilder/querybuilder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/queryhelpers.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/queryhelpers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/querystream.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/querystream.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/readable.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/node_modules/readable-stream/readable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/release-items.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/release-items.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/replicasets/replica-sets.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/replicasets/replica-sets.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/express/connection-sharing/routes.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/express/connection-sharing/routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/schema/schema.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/schema/schema.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schematype.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schematype.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/statemachine.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/statemachine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/static.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/static.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/statics/statics.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/examples/statics/statics.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/string.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/string.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/services/updateValidators.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/services/updateValidators.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/error/validation.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/validation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/error/validator.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/validator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/error/version.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/website.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/website.js" />
-    </list>
+    <list id="859c4fc7-4d46-4f25-ba99-fbf24664e8cf" name="New changelist" comment="" />
     <ignored path="multivision.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -332,18 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="navbar-login.jade" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/app/account/navbar-login.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
-              <folding>
-                <marker date="1442007642663" expanded="true" signature="57:391" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/views/index.jade">
           <provider selected="true" editor-type-id="text-editor">
@@ -375,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/server/config/mongoose.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -386,6 +67,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/includes/layout.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.018498369">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -411,10 +112,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auth.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="auth.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/config/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.036996737">
+            <state vertical-scroll-proportion="0.0">
               <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
               <folding />
             </state>
@@ -450,7 +151,6 @@
         <option value="$PROJECT_DIR$/public/app/main/mvMainCtrl.js" />
         <option value="$PROJECT_DIR$/server/views/partials/featured-courses.jade" />
         <option value="$PROJECT_DIR$/server/views/partials/new-courses.jade" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/server/views/partials/navbar-login.jade" />
         <option value="$PROJECT_DIR$/server/views/partials/main/main.jade" />
         <option value="$PROJECT_DIR$/public/app/account/mvNavBarLogin.js" />
@@ -470,6 +170,7 @@
         <option value="$PROJECT_DIR$/server/config/mongoose.js" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/server/config/express.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -892,9 +593,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1484375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1484375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -968,6 +669,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1057,6 +759,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1096,13 +801,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/includes/layout.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/public/app/main/mvMainCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.018498369">
@@ -1114,13 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1198,6 +889,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1248,7 +940,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
           <folding>
-            <marker date="1442007642663" expanded="true" signature="57:391" placeholder="..." />
+            <marker date="1442007642663" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1289,14 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/config/mongoose.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/app/account/mvAuth.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1309,14 +993,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -1347,8 +1023,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/config/auth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.036996737">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/mongoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/includes/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018498369">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
