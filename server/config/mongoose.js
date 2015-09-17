@@ -19,7 +19,7 @@ module.exports = function(config) {
     });
 
     userSchema.methods = {
-        authenticate: function (passwordToMatch) {
+        authenticate: function(passwordToMatch) {
             return hashPwd(this.salt, passwordToMatch) === this.hashed_pwd;
         }
     };
